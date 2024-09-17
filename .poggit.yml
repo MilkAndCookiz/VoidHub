@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MilkAndCookiz/VoidHub
+build-by-default: true
+branches:
+- master
+projects:
+  VoidHub:
+    path: ""
+    icon: "icon.png"
+...
