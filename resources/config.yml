@@ -1,8 +1,4 @@
-#################
-#VoidHUB
-#By CookieCode
-#Contact me on twitter if you have any problem (@ImCookieGame)
-#################
+# Configuration file for VoidHub plugin
 
-#teleport_hub_message : Change the message when the plugin teleported you to the hub
-teleport_hub_message: "§eYou've been teleported to the hub !"
+# Message to display when a player is teleported from the void
+teleport_message: "§aYou have been teleported back to spawn from the void!"

@@ -1,5 +1,6 @@
-name: VoidHUB
-api: [3.0.0-ALPHA10, 3.0.0-ALPHA9]
-version: "1.0"
-author: CookieCode
-main: CookieCode\VoidHUB\Main
+name: VoidHub
+main: VoidHub\Main
+version: 2.0.0
+author: MilkAndCookiz
+api: ["5.0.0"]
+description: "A plugin that teleports players back to spawn when they fall into the void"
