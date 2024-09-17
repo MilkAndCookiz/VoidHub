@@ -2,6 +2,7 @@
 ===================
 
 __A teleportation safety plugin for Minecraft: Bedrock Edition, now compatible with PocketMine v5.x!__
+[![](https://poggit.pmmp.io/shield.state/VoidHub)](https://poggit.pmmp.io/p/VoidHub)
 
 ## Introduction
 VoidHub is a plugin for **[PocketMine-MP](https://github.com/pmmp/PocketMine-MP)** that automatically teleports players to the world spawn when they fall below the map (Y < 0). The plugin is designed to prevent players from falling into the void and getting stuck. Developed and maintained by **MilkAndCookiz**, it offers essential features for safe gameplay in Minecraft Bedrock Edition.
